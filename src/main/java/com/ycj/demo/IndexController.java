@@ -14,6 +14,6 @@ public class IndexController {
 
     @RequestMapping(value = "/index", method = RequestMethod.GET)
     public String index() {
-        return "docker Jenkins 测试完成，服务器内存不足了";
+        return "docker Jenkins 测试完成，完美！！！！！！！";
     }
 }
