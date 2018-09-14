@@ -19,6 +19,6 @@ public class IndexController {
 
     @RequestMapping(value = "/gitee", method = RequestMethod.GET)
     public String index2() {
-        return "下一步  实现 docker Jenkins + gitee o(╥﹏╥)o";
+        return "下一步  实现 docker Jenkins + gitee o(╥﹏╥)o，难搞";
     }
 }
