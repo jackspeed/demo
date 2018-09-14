@@ -17,7 +17,7 @@ public class IndexController {
         return "docker Jenkins 测试完成，完美！！！！！！！";
     }
 
-    @RequestMapping(value = "/index2", method = RequestMethod.GET)
+    @RequestMapping(value = "/gitee", method = RequestMethod.GET)
     public String index2() {
         return "docker Jenkins + gitee o(╥﹏╥)o";
     }
