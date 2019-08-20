@@ -14,7 +14,7 @@ public class IndexController {
 
     @RequestMapping(value = "/index", method = RequestMethod.GET)
     public String index() {
-        return "Jenkins 测试修改";
+        return "Jenkins 测试修改2222222222222222222222222222222222222222222222222222222222";
     }
 
     @RequestMapping(value = "/gitee", method = RequestMethod.GET)
